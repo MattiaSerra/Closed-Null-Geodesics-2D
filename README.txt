@@ -49,7 +49,7 @@ Installation notes :
 The altimeter products used in this work are produced by SSALTO/DUACS and distributed by AVISO, 
 with support from CNES (http://www.aviso.oceanobs.com/duacs). 
 
-NOTE: This code may be inporved and subjected to several changes. Therefore, we suggest to visit this 
+NOTE: This code may be imporved and subject to several changes. Therefore, we suggest to visit this 
 page and check if the version you downloaded is up to date.  
 
 
